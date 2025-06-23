@@ -1,0 +1,10 @@
+
+SCREEN_WIDTH  = 640
+SCREEN_HEIGHT = 480
+BG_COLOR      = (30, 30, 30)
+
+
+
+
+
+

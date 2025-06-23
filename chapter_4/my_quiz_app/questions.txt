@@ -1,0 +1,7 @@
+
+What is 2+2?|4
+What color is the sky?|Blue
+Who wrote 'Hamlet'?|Shakespeare
+
+
+
